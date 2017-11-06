@@ -1,4 +1,2 @@
-# datasciencecoursera
-Project week4 - Data Science Coursera
-## Hello World 
-
+# datasciencecoursera - Hello World
+## This is a markdown file
